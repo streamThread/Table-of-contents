@@ -1,2 +1,73 @@
-# Table-of-contents
-This repository contains a single Readme.md file. This file serves as a guide to the rest of the repositories.
+# Table of contents
+
+## StudyProject №1
+[ToDoList](https://github.com/streamThread/SkillBox/tree/master/12_SpringBootWebDevelopment/ToDoList)
+
+Spring application example. You can save and modify the to-do list. Api documentation - swagger. Link to the deployment to heroku https://myapp234123.herokuapp.com/
+(the wait on the first call is long due to the features of placing the application on a free heroku account)
+### Technology stack :
+* Spring MVC
+* MySQL
+* Lombok
+* Swagger
+* Maven
+
+## StudyProject №2
+[Transactions](https://github.com/streamThread/SkillBox/tree/master/11_Multithreading/Transactions)
+
+Simulation of the operation of bank transfer services in a multithreaded mode
+### Technology stack :
+* MultiThreading
+* Log4j2
+* Lombok
+* Allure
+* Maven
+
+## StudyProject №3
+[Site Map By ForkJoin](https://github.com/streamThread/SkillBox/tree/master/11_Multithreading/SiteMapByForkJoin)
+
+Makes a site map according to the model.
+### Technology stack :
+* JSoup
+* Log4j2
+* Lombok
+* gson
+* Maven
+
+## StudyProject №4
+[GMail Tests](https://github.com/streamThread/GMailTests)
+
+Testing Gmail by Selenium
+### Technology stack :
+* Selenium
+* Allure
+* Junit
+* Maven
+
+## StudyProject №5
+[SQL](https://github.com/streamThread/SkillBox/tree/master/10_SQLAndHibernate/SQL%2010.2.3)
+
+Hibernate example
+### Technology stack :
+* MySQL
+* Hibernate
+* Lombok 
+* Maven
+
+## StudyProject №6
+[Metro Parsing](https://github.com/streamThread/SkillBox/tree/master/09_FilesAndNetwork/MetroParsing)
+
+Parsing metro data from wikipedia page to json file
+### Technology stack :
+* JSoup
+* Json
+* Maven
+
+## StudyProject №7
+[Metro Parsing](https://github.com/streamThread/SkillBox/tree/master/09_FilesAndNetwork/MetroParsing)
+
+Parsing metro data from wikipedia page to json file
+### Technology stack :
+* JSoup
+* Json
+* Maven
