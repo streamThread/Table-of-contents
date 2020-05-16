@@ -10,6 +10,7 @@ Spring application example. You can save and modify the to-do list. Api document
 * MySQL
 * Lombok
 * Swagger
+* Docker
 * Maven
 
 ## StudyProject №2
@@ -64,10 +65,21 @@ Parsing metro data from wikipedia page to json file
 * Maven
 
 ## StudyProject №7
-[Metro Parsing](https://github.com/streamThread/SkillBox/tree/master/09_FilesAndNetwork/MetroParsing)
+[Image Resizer](https://github.com/streamThread/SkillBox/tree/master/11_Multithreading/ImageResizer)
 
-Parsing metro data from wikipedia page to json file
+Multi-threaded image compression
 ### Technology stack :
-* JSoup
-* Json
+* Lombok
+* java.awt.*
 * Maven
+
+## StudyProject №8
+[Parse CSV](https://github.com/streamThread/ParseCSV/blob/master/src/main/java/BankStatementOperations.java)
+
+Parsing a bank statement in CSV format
+### Technology stack :
+* opencsv
+* Maven
+
+## Other small projects
+[StudyProjects](https://github.com/streamThread/StudyProjects)
