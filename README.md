@@ -3,7 +3,7 @@
 ## StudyProject №1
 [ToDoList](https://github.com/streamThread/SkillBox/tree/master/12_SpringBootWebDevelopment/ToDoList)
 
-Spring application example. You can save and modify the to-do list. Api documentation - swagger. Link to the deployment to heroku https://myapp234123.herokuapp.com/
+Spring application example. You can save and modify the to-do list. Api documentation - [swagger](https://myapp234123.herokuapp.com/swagger-ui.html). Link to the deployment to heroku https://myapp234123.herokuapp.com/
 (the wait on the first call is long due to the features of placing the application on a free heroku account)
 ### Technology stack :
 * Spring MVC
