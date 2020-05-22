@@ -1,7 +1,7 @@
 # Table of contents
 
 ## StudyProject №1
-[ToDoList](https://github.com/streamThread/SkillBox/tree/master/12_SpringBootWebDevelopment/ToDoList)
+### [ToDoList](https://github.com/streamThread/SkillBox/tree/master/12_SpringBootWebDevelopment/ToDoList)
 
 Spring application example. You can save and modify the to-do list. Api documentation - [swagger](https://myapp234123.herokuapp.com/swagger-ui.html). Link to the deployment to heroku https://myapp234123.herokuapp.com/
 (the wait on the first call is long due to the features of placing the application on a free heroku account)
@@ -14,7 +14,7 @@ Spring application example. You can save and modify the to-do list. Api document
 * Maven
 
 ## StudyProject №2
-[Transactions](https://github.com/streamThread/SkillBox/tree/master/11_Multithreading/Transactions)
+### [Transactions](https://github.com/streamThread/SkillBox/tree/master/11_Multithreading/Transactions)
 
 Simulation of the operation of bank transfer services in a multithreaded mode
 ### Technology stack :
@@ -25,7 +25,7 @@ Simulation of the operation of bank transfer services in a multithreaded mode
 * Maven
 
 ## StudyProject №3
-[Site Map By ForkJoin](https://github.com/streamThread/SkillBox/tree/master/11_Multithreading/SiteMapByForkJoin)
+### [Site Map By ForkJoin](https://github.com/streamThread/SkillBox/tree/master/11_Multithreading/SiteMapByForkJoin)
 
 Makes a site map according to the model.
 ### Technology stack :
@@ -36,7 +36,7 @@ Makes a site map according to the model.
 * Maven
 
 ## StudyProject №4
-[GMail Tests](https://github.com/streamThread/GMailTests)
+### [GMail Tests](https://github.com/streamThread/GMailTests)
 
 Testing Gmail by Selenium
 ### Technology stack :
@@ -46,7 +46,7 @@ Testing Gmail by Selenium
 * Maven
 
 ## StudyProject №5
-[SQL](https://github.com/streamThread/SkillBox/tree/master/10_SQLAndHibernate/SQL%2010.2.3)
+### [SQL](https://github.com/streamThread/SkillBox/tree/master/10_SQLAndHibernate/SQL%2010.2.3)
 
 Hibernate example
 ### Technology stack :
@@ -56,7 +56,7 @@ Hibernate example
 * Maven
 
 ## StudyProject №6
-[Metro Parsing](https://github.com/streamThread/SkillBox/tree/master/09_FilesAndNetwork/MetroParsing)
+### [Metro Parsing](https://github.com/streamThread/SkillBox/tree/master/09_FilesAndNetwork/MetroParsing)
 
 Parsing metro data from wikipedia page to json file
 ### Technology stack :
@@ -65,7 +65,7 @@ Parsing metro data from wikipedia page to json file
 * Maven
 
 ## StudyProject №7
-[Image Resizer](https://github.com/streamThread/SkillBox/tree/master/11_Multithreading/ImageResizer)
+### [Image Resizer](https://github.com/streamThread/SkillBox/tree/master/11_Multithreading/ImageResizer)
 
 Multi-threaded image compression
 ### Technology stack :
@@ -74,7 +74,7 @@ Multi-threaded image compression
 * Maven
 
 ## StudyProject №8
-[Parse CSV](https://github.com/streamThread/ParseCSV/blob/master/src/main/java/BankStatementOperations.java)
+### [Parse CSV](https://github.com/streamThread/ParseCSV/blob/master/src/main/java/BankStatementOperations.java)
 
 Parsing a bank statement in CSV format
 ### Technology stack :
@@ -82,4 +82,4 @@ Parsing a bank statement in CSV format
 * Maven
 
 ## Other small projects
-[StudyProjects](https://github.com/streamThread/StudyProjects)
+### [StudyProjects](https://github.com/streamThread/StudyProjects)
