@@ -10,7 +10,6 @@ username: user
 
 password: password
 
-(the wait on the first call is long due to the features of placing the application on a free heroku account)
 ### Technology stack :
 * Spring
 * Thymeleaf
