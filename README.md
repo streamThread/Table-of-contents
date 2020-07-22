@@ -32,7 +32,7 @@ Swing application. Creates a site map using a recursive algorithm
 * Lombok
 * Maven
 
-![Site Map app screenshot] (screenshots/site_map.png)
+![Site Map app screenshot](screenshots/site_map.png)
 
 ## StudyProject №3
 ### [Transactions](https://github.com/streamThread/SkillBox/tree/master/11_Multithreading/Transactions)
