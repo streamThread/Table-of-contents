@@ -21,6 +21,20 @@ password: password
 * Maven
 
 ## StudyProject №2
+### [Site Map](https://github.com/streamThread/SkillBox/tree/master/11_Multithreading/SiteMapByForkJoin)
+
+Swing application. Creates a site map using a recursive algorithm
+### Technology stack :
+* Swing
+* MultiThreading (ForkJoinPool)
+* jsoup
+* Log4j2
+* Lombok
+* Maven
+
+![Site Map app screenshot] (screenshots/site_map.png)
+
+## StudyProject №3
 ### [Transactions](https://github.com/streamThread/SkillBox/tree/master/11_Multithreading/Transactions)
 
 Simulation of the operation of bank transfer services in a multithreaded mode
@@ -31,7 +45,7 @@ Simulation of the operation of bank transfer services in a multithreaded mode
 * Allure
 * Maven
 
-## StudyProject №3
+## StudyProject №4
 ### [Site Map By ForkJoin](https://github.com/streamThread/SkillBox/tree/master/11_Multithreading/SiteMapByForkJoin)
 
 Makes a site map according to the model.
@@ -42,7 +56,7 @@ Makes a site map according to the model.
 * gson
 * Maven
 
-## StudyProject №4
+## StudyProject №5
 ### [GMail Tests](https://github.com/streamThread/GMailTests)
 
 Testing Gmail by Selenium
@@ -52,7 +66,7 @@ Testing Gmail by Selenium
 * Junit
 * Maven
 
-## StudyProject №5
+## StudyProject №6
 ### [SQL](https://github.com/streamThread/SkillBox/tree/master/10_SQLAndHibernate/SQL%2010.2.3)
 
 Hibernate example
@@ -62,7 +76,7 @@ Hibernate example
 * Lombok 
 * Maven
 
-## StudyProject №6
+## StudyProject №7
 ### [Metro Parsing](https://github.com/streamThread/SkillBox/tree/master/09_FilesAndNetwork/MetroParsing)
 
 Parsing metro data from wikipedia page to json file
@@ -71,7 +85,7 @@ Parsing metro data from wikipedia page to json file
 * Json
 * Maven
 
-## StudyProject №7
+## StudyProject №8
 ### [Image Resizer](https://github.com/streamThread/SkillBox/tree/master/11_Multithreading/ImageResizer)
 
 Multi-threaded image compression
@@ -80,7 +94,7 @@ Multi-threaded image compression
 * java.awt.*
 * Maven
 
-## StudyProject №8
+## StudyProject №9
 ### [Parse CSV](https://github.com/streamThread/ParseCSV/blob/master/src/main/java/BankStatementOperations.java)
 
 Parsing a bank statement in CSV format
